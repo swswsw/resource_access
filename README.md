@@ -1,2 +1,3 @@
-# resource_access
-universal resource access
+# GoldenPass
+Old name: Universal Resource Access
+Rebranded: GoldenPass
