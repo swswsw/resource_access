@@ -3,9 +3,19 @@
 
 ## Abstract
 
+We propose a new mechanism that allows services to get recurring revenue without user paying.  The revenue usually comes from monetary supply increase of the cryptocurrencies, but not always.  Users stake cryptocurrency and the staking rewards become revenue for the services (website, app, content provider, offline service, etc).  This mechanism have the opportunity of bringing more mainstream adoption as it brings a novel integration of cryptocurrency ecosystem into a larger generic industries.
+
 ## Introductions
 
 ## Payment-Free Revenue
+
+What if you can get services without paying.  What if the service can still get recurring revenue without users paying.  That is what we are tackling.  This seemingly impossible problem has a novel solution that is only possible due to the advent of the staking cryptocurrencies.
+
+Users stake cryptocurrencies.  Staking generates staking rewards.  These staking rewards usually comes from monetary supply increase as these cryptocurrencies mint new tokens.  The staking rewards become a new revenue source for the service.  
+
+I used the term "staking" in generic way to cover several concepts.  For example, on Stellar, you can vote for inflation to get finlation tokens.  Which does not use the term "stake".  I also use the term staking rewards in generic way to cover several concepts that earns rewards.  On EOS, block producer gets block rewards, which can be used as revenue for the .  Dash also has different concept of getting some type of rewards.  
+
+## Terminology
 
 ## Pain of Paying
 
@@ -30,6 +40,8 @@ this new model may fit cryptocurrency owner mindset.  allowing them to increase 
 There are multitudes of benefits to site/app, content providers (eg. Youtube video uploader or Instagram models), and other digital/non-digital service providers.  There are two primary benefits.  
 
 First, this is a new revenue stream.  This is a new kind of revenue that does not exist before.  Many site/apps have been relying on either ad or direct payments as revenue.  They now have a new revenue possibility besides those traditional revenue.  Second and more importantly, this removes the "pain of paying" from service providers' users. 
+
+There are also other benefits.  For example, this revenue can work globally, unlike payment.  Payment are often regional.  For example, many Chinese websites only takes payment that is difficult to access for non-Chinese.
 
 ### To Users
 
