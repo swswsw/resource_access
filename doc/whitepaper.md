@@ -73,3 +73,18 @@ For this mechanism to work, the cryptocurrencies networks need to satisfy the fo
 
 ## Community Benefit & Universal Resource Allocation
 
+## Issues
+
+### Doing More Work Than a Validator
+
+One of the most common criticisms of this approach is why doesn't GoldenPass simply be a validator.  A validator's work is a subset of GoldenPass'.  GoldenPass does a lot more work, but may have less financial gain than a validator.  While this may be true, someone in the ecosystem has to do this for ecosystem diversity and to include more users into this system.  At the moment of writing, the validator scenes in general are quite homogeneous.  Almost all players are doing validation for the same purpose of financial returns.  We need some other type of players to introduce some heterogenity into the system.  More importantly, we want to be able to attract different types of users into the system.  Right now, many POS system have no problem attracting investors who are there for the financial returns, but not much of other type of users.  With GoldenPass, users have more reasons to use the crypto system other than to gain staking interest.  This may attract regular users who wishes to use regular services into the system.
+
+### Making More People Join Staking, Especially People Who Normally Would Not Stake
+
+I really feel this is a good thing, and not an issue.  Some people feel that this mechanism would compel people to join stake, even those people who normally feel no urge to stake.  Some current stakers look at this negatively.  From current stakers' point of view, these new stakers compete with the current stakers and reduce the current stakers' return.  In some of the cryptocurrency systems, the amount of rewards are proportional to their quantity of staking.  The stakers share the total rewards, which is fixed.  If the total amount of stakes increases, the current stakers will earn less.  
+
+Again, I want to say this is actually a good thing to have more stakers.  As a staker for a cryptocurrency, it is in your best interest that there are more use of that cryptocurrency.  Increased usage of the system will likely lead to increase in price, which benefits all cryptocurrency owners.  Moreover, staking locks up the fund and reduces circulation.  Reduce supply also likely lead to price increase.
+
+
+
+
