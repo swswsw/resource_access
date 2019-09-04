@@ -19,6 +19,11 @@ I used the term "staking" in generic way to cover several concepts.  For example
 
 ## Pain of Paying
 
+When people pay, they consciously or subconsciously does a mental accounting to justify it.  There is a pain of paying because people are loss-averse (Zellermayer, 1996) (https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/pain-of-paying/).  This is very important concept that regulate one's spending.  This is also why it is so difficult to convert free users to paying users.  
+
+This paper proposes a mechanism that will hopefully reduce or eliminate "pain of paying" from userss.
+
+
 ## Backgrounds
 
 A number of cryptocurrencies have come online with staking rewards.  eg.
@@ -27,7 +32,7 @@ payment was the hopeful killer app.  or the thing that will bring mass adoption.
 
 payment tis difficult to crack due to networking effect within the system.  for example, it is very difficult to change the last-mile point-of-sale devices to accept new payment.  Integration, staff training, could all take a lot of work.
 
-Moreover, cryptocurrency users often expect the cryptocurrency to raise in value, which makes holding easier than paying.  
+Moreover, cryptocurrency users often expect the cryptocurrency to raise in value, which makes holding easier than paying.  and this increase the pain-of-paying
 
 Need more economic activities to sustain the inflation.
 
@@ -73,17 +78,22 @@ For this mechanism to work, the cryptocurrencies networks need to satisfy the fo
 
 ## Community Benefit & Universal Resource Allocation
 
+## Solving the POS Dilema: Rich Gets Richer
+
 ## Issues
 
 ### Doing More Work Than a Validator
 
 One of the most common criticisms of this approach is why doesn't GoldenPass simply be a validator.  A validator's work is a subset of GoldenPass'.  GoldenPass does a lot more work, but may have less financial gain than a validator.  While this may be true, someone in the ecosystem has to do this for ecosystem diversity and to include more users into this system.  At the moment of writing, the validator scenes in general are quite homogeneous.  Almost all players are doing validation for the same purpose of financial returns.  We need some other type of players to introduce some heterogenity into the system.  More importantly, we want to be able to attract different types of users into the system.  Right now, many POS system have no problem attracting investors who are there for the financial returns, but not much of other type of users.  With GoldenPass, users have more reasons to use the crypto system other than to gain staking interest.  This may attract regular users who wishes to use regular services into the system.
 
+I want to point out that for a cryptocurrency that mint 5-10% more tokens annually, it must have economic activity to sustain the price.  Otherwise, there would be massive inflation (decrease in purchase power or the token price will drop).  Just stake tokens to get financial return is not enough.  We feel that we need to do something that will create a virtous cycle for the cryptocurrency system.  This proposal is what we think will help the entire system.
+
 ### Making More People Join Staking, Especially People Who Normally Would Not Stake
 
 I really feel this is a good thing, and not an issue.  Some people feel that this mechanism would compel people to join stake, even those people who normally feel no urge to stake.  Some current stakers look at this negatively.  From current stakers' point of view, these new stakers compete with the current stakers and reduce the current stakers' return.  In some of the cryptocurrency systems, the amount of rewards are proportional to their quantity of staking.  The stakers share the total rewards, which is fixed.  If the total amount of stakes increases, the current stakers will earn less.  
 
 Again, I want to say this is actually a good thing to have more stakers.  As a staker for a cryptocurrency, it is in your best interest that there are more use of that cryptocurrency.  Increased usage of the system will likely lead to increase in price, which benefits all cryptocurrency owners.  Moreover, staking locks up the fund and reduces circulation.  Reduce supply also likely lead to price increase.
+
 
 
 
