@@ -13,9 +13,9 @@ What if you can get services without paying.  What if the service can still get 
 
 Users stake cryptocurrencies.  Staking generates staking rewards.  These staking rewards usually comes from monetary supply increase as these cryptocurrencies mint new tokens.  The staking rewards become a new revenue source for the service.  
 
-I used the term "staking" in generic way to cover several concepts.  For example, on Stellar, you can vote for inflation to get finlation tokens.  Which does not use the term "stake".  I also use the term staking rewards in generic way to cover several concepts that earns rewards.  On EOS, block producer gets block rewards, which can be used as revenue for the .  Dash also has different concept of getting some type of rewards.  
-
 ## Terminology
+
+I used the term "staking" in generic way to cover several concepts.  For example, on Stellar, you can vote for inflation to get inflation tokens.  Which does not use the term "stake".  I also use the term staking rewards in generic way to cover several concepts that earns rewards.  On EOS, block producer gets block rewards, which can be used as revenue for the .  Dash also has different concept of getting some type of rewards.  
 
 ## Pain of Paying
 
@@ -26,11 +26,11 @@ This paper proposes a mechanism that will hopefully reduce or eliminate "pain of
 
 ## Backgrounds
 
-A number of cryptocurrencies have come online with staking rewards.  eg.
+A number of cryptocurrencies have come online with staking rewards, such as Tezos, Cosmos, EOS, etc.
 
 payment was the hopeful killer app.  or the thing that will bring mass adoption.  players: bitpay.  coinbase provides merchant solutions.
 
-payment tis difficult to crack due to networking effect within the system.  for example, it is very difficult to change the last-mile point-of-sale devices to accept new payment.  Integration, staff training, could all take a lot of work.
+payment is difficult to crack due to networking effect within the system.  for example, it is very difficult to change the last-mile point-of-sale devices to accept new payment.  Integration, staff training, could all take a lot of work.
 
 Moreover, cryptocurrency users often expect the cryptocurrency to raise in value, which makes holding easier than paying.  and this increase the pain-of-paying
 
