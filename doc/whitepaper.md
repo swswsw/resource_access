@@ -26,17 +26,16 @@ This paper proposes a mechanism that will hopefully reduce or eliminate "pain of
 
 ## Backgrounds
 
-A number of cryptocurrencies have come online with staking rewards, such as Tezos, Cosmos, EOS, etc.
+During the early years of cryptocurrency, we believed payment was the killer app.  We believed that is the the thing that will bring mass adoption.  There were a number of players in crypto payment ecosystem.  For example, both Bitpay and Coinbase provide merchant solutions.
 
-payment was the hopeful killer app.  or the thing that will bring mass adoption.  players: bitpay.  coinbase provides merchant solutions.
+Payment turned out to be difficult to crack due to networking effect within the system.  for example, it is very difficult to change the last-mile point-of-sale devices to accept new payment.  Integration and training could all take a lot of work.
 
-payment is difficult to crack due to networking effect within the system.  for example, it is very difficult to change the last-mile point-of-sale devices to accept new payment.  Integration, staff training, could all take a lot of work.
+Moreover, cryptocurrency users often expect the cryptocurrency to raise in value, which makes holding easier than paying.  and this increase the pain-of-paying.
 
-Moreover, cryptocurrency users often expect the cryptocurrency to raise in value, which makes holding easier than paying.  and this increase the pain-of-paying
+GoldenPass's unique new model may fit cryptocurrency owners mindset better than paying.  This model allows them to increase the network activity while keeping their stack.  Mentally, this reconcils the activity of obtaining service with their expectation of rising values.
 
-Need more economic activities to sustain the inflation.
+A number of cryptocurrencies have come online with monetary supply increase, such as Tezos, Cosmos, EOS, etc.  Need more economic activities to sustain the inflation.
 
-this new model may fit cryptocurrency owner mindset.  allowing them to increase the network activity while reconciling the activity with their expectation of rising values.
 
 ## Benefits
 
