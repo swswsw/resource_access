@@ -34,7 +34,7 @@ Moreover, cryptocurrency users often expect the cryptocurrency to raise in value
 
 GoldenPass's unique new model may fit cryptocurrency owners mindset better than paying.  This model allows them to increase the network activity while keeping their stack.  Mentally, this reconcils the activity of obtaining service with their expectation of rising values.
 
-A number of cryptocurrencies have come online with monetary supply increase, such as Tezos, Cosmos, EOS, etc.  Need more economic activities to sustain the inflation.
+A number of cryptocurrency network have come online with monetary supply increase, such as Tezos, Cosmos, EOS, etc.  These networks will need more economic activities to sustain the inflation.  What if stake holders can tap into these monetary inflation to increase the economic activites on the network.
 
 
 ## Benefits
