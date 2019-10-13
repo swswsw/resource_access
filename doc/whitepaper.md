@@ -77,7 +77,7 @@ For this mechanism to work, the cryptocurrencies networks need to satisfy the fo
 
 ## Community Benefit & Universal Resource Allocation
 
-## Solving the POS Dilema: Rich Gets Richer
+## Solving the POS Dilemma: Rich Gets Richer
 
 ## Issues
 
